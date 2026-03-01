@@ -1,0 +1,59 @@
+Quadratic Equations - NCERT Mathematics Class 10
+
+Chapter 4: Quadratic Equations
+
+A quadratic equation is a polynomial equation of the second degree. The general form of a quadratic equation is ax² + bx + c = 0, where a, b, and c are constants and a ≠ 0.
+
+1. Standard Form
+The standard form of a quadratic equation is ax² + bx + c = 0, where:
+- a is the coefficient of x² (called the quadratic coefficient)
+- b is the coefficient of x (called the linear coefficient)
+- c is the constant term
+
+2. Solutions Using Quadratic Formula
+The quadratic formula is used to find the roots of a quadratic equation:
+x = (-b ± √(b² - 4ac)) / 2a
+
+The discriminant Δ = b² - 4ac determines the nature of roots:
+- If Δ > 0: Two distinct real roots
+- If Δ = 0: Two equal real roots (one repeated root)
+- If Δ < 0: No real roots (two complex roots)
+
+3. Methods to Solve Quadratic Equations
+a) Factorization Method: Express the quadratic as a product of two linear factors
+b) Completing the Square: Convert the equation to a perfect square
+c) Using the Quadratic Formula: Apply the formula directly
+d) Graphical Method: Find the x-intercepts of the parabola
+
+4. Vieta's Formulas
+For a quadratic equation ax² + bx + c = 0 with roots α and β:
+- Sum of roots: α + β = -b/a
+- Product of roots: αβ = c/a
+
+5. Applications
+Quadratic equations are used in physics, engineering, economics, and many real-world scenarios including projectile motion, optimization problems, and area calculations.
+
+Pythagorean Theorem - NCERT Mathematics
+
+The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+
+If a triangle has sides a, b, and hypotenuse c, then:
+c² = a² + b²
+
+This relationship is fundamental in geometry and trigonometry. The theorem can be proved using various methods including geometric proofs and algebraic manipulation.
+
+Chemical Equations and Balancing - NCERT Chemistry Class 10
+
+Balancing chemical equations is essential to ensure the law of conservation of mass is satisfied. The steps to balance a chemical equation are:
+
+1. Count the atoms of each element on both sides
+2. Identify elements that are not balanced
+3. Assign coefficients to balance one element at a time
+4. Verify that all elements are balanced
+5. Check that the equation is in its simplest form
+
+Key principles:
+- Coefficients must be whole numbers
+- Never change the chemical formulas of compounds
+- Start with the most complex compound
+- Balance metals, then non-metals, then hydrogen, then oxygen

@@ -1,0 +1,58 @@
+Atomic Structure - NCERT Chemistry Class 11
+
+The Atom
+An atom consists of a nucleus surrounded by electrons. The nucleus contains protons and neutrons.
+
+Subatomic Particles:
+1. Proton: Positively charged particle with mass ≈ 1 amu
+2. Neutron: Neutral particle with mass ≈ 1 amu
+3. Electron: Negatively charged particle with mass ≈ 1/1836 amu
+
+Atomic Number: Number of protons in an atom (denoted by Z)
+Mass Number: Sum of protons and neutrons (denoted by A)
+Number of neutrons = A - Z
+
+Electron Configuration
+Electrons occupy orbitals around the nucleus following the Aufbau principle. The order of filling is:
+1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p...
+
+Quantum Numbers:
+- Principal quantum number (n): Determines the shell (n = 1, 2, 3, ...)
+- Azimuthal quantum number (l): Determines the subshell (s, p, d, f)
+- Magnetic quantum number (ml): Determines the orbital
+- Spin quantum number (ms): ±1/2
+
+Periodic Table
+The periodic table is organized by:
+- Periods (horizontal rows): Based on the number of electron shells
+- Groups (vertical columns): Based on the number of valence electrons
+
+The periodic table helps predict element properties and reactivity.
+
+Photosynthesis - NCERT Biology Class 10
+
+Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water. It occurs primarily in the chloroplasts of plant cells.
+
+The equation for photosynthesis:
+6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂
+
+Photosynthesis occurs in two main stages:
+
+1. Light-Dependent Reactions (in the thylakoid):
+- Occurs in the presence of light
+- Chlorophyll absorbs light energy
+- Water molecules are split (photolysis)
+- Produces ATP and NADPH
+- Releases oxygen as a byproduct
+
+2. Light-Independent Reactions or Calvin Cycle (in the stroma):
+- Occurs with or without light
+- Uses ATP and NADPH from light reactions
+- Fixes CO₂ into glucose
+- Produces glucose molecules
+
+Importance of Photosynthesis:
+- Produces oxygen essential for aerobic respiration
+- Produces glucose that serves as food and energy source
+- Forms the base of most food chains
+- Helps maintain oxygen and carbon dioxide balance in the atmosphere
